@@ -1,2 +1,8 @@
 selenium==3.5.0
 splinter==0.7.6
+beautifulsoup4==4.6.0
+Flask==0.12.2
+Flask-Cors==3.0.3
+Flask-PyMongo==0.5.1
+pandas==0.20.3
+tweepy==3.5.0
